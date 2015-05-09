@@ -29,7 +29,7 @@
     <favorites_list name="StableStudy" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.445">
+    <splitter split-orientation="horizontal" split-proportion="0.450625">
       <split-first>
         <leaf>
           <file leaf-file-name="Brendan_css_1.css" pinned="false" current-in-tab="false">
@@ -146,10 +146,13 @@
           <file leaf-file-name="SS_cd8b7165c408.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/SS_cd8b7165c408.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.30869564" vertical-offset="159927" max-vertical-offset="161211">
-                  <caret line="9420" column="43" selection-start-line="9420" selection-start-column="43" selection-end-line="9420" selection-end-column="43" />
+                <state vertical-scroll-proportion="0.6463768" vertical-offset="110768" max-vertical-offset="161381">
+                  <caret line="6542" column="38" selection-start-line="6542" selection-start-column="38" selection-end-line="6542" selection-end-column="38" />
                   <folding>
-                    <marker date="1431145582894" expanded="true" signature="83324:83379" placeholder="..." />
+                    <marker date="1431157589043" expanded="true" signature="83324:83379" placeholder="..." />
+                    <marker date="1431157589043" expanded="true" signature="256768:377020" placeholder="{...}" />
+                    <marker date="1431157589043" expanded="true" signature="257766:271690" placeholder="{...}" />
+                    <marker date="1431157589043" expanded="true" signature="258025:268068" placeholder="/*...*/" />
                   </folding>
                 </state>
               </provider>
@@ -900,10 +903,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/SS_cd8b7165c408.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30869564" vertical-offset="159927" max-vertical-offset="161211">
-          <caret line="9420" column="43" selection-start-line="9420" selection-start-column="43" selection-end-line="9420" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.6463768" vertical-offset="110768" max-vertical-offset="161381">
+          <caret line="6542" column="38" selection-start-line="6542" selection-start-column="38" selection-end-line="6542" selection-end-column="38" />
           <folding>
-            <marker date="1431145582894" expanded="true" signature="83324:83379" placeholder="..." />
+            <marker date="1431157589043" expanded="true" signature="83324:83379" placeholder="..." />
+            <marker date="1431157589043" expanded="true" signature="256768:377020" placeholder="{...}" />
+            <marker date="1431157589043" expanded="true" signature="257766:271690" placeholder="{...}" />
+            <marker date="1431157589043" expanded="true" signature="258025:268068" placeholder="/*...*/" />
           </folding>
         </state>
       </provider>
